@@ -1,12 +1,12 @@
 import './App.css'
-import AFrameViewer from './components/AFramerViewer'
+import AFramerViewer from './components/AFramerViewer'
 
 function App() {
   return (
     <div>
       <h1>Aframe-Image-Viewer</h1>
       {/* Container to embed the Image Viewer */}
-      <AFrameViewer/>
+      <AFramerViewer/>
     </div>
   )
 }

@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import 'aframe';
 
-const AFrameViewer: React.FC = () => {
+const AFramerViewer: React.FC = () => {
   useEffect(() => {
     // A-Frame components are registered globally
   }, []);
@@ -39,4 +39,4 @@ const AFrameViewer: React.FC = () => {
   );
 };
 
-export default AFrameViewer;
+export default AFramerViewer;
