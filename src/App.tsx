@@ -1,5 +1,5 @@
 import './App.css'
-import AFrameViewer from './components/AframerViewer'
+import AFrameViewer from './components/AFramerViewer'
 
 function App() {
   return (
